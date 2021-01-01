@@ -1,0 +1,7 @@
+Shoulder min pulse: 420
+Shoulder max pulse: 2180
+Elbow min pulse: 340
+Elbow max pulse: 2090
+Image warp matrix: [[ 1.04126940e+00  8.38557890e-03 -1.50440789e+01]
+ [-6.40560793e-03  1.04116134e+00 -9.57021195e+01]
+ [ 1.45302453e-05 -2.76035793e-05  1.00000000e+00]]
